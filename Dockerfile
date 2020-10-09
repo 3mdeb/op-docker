@@ -40,6 +40,7 @@ RUN \
 		unzip \
 		wget \
 		xsltproc \
+		xxd \
 		xz-utils \
 	&& apt-get clean
 
