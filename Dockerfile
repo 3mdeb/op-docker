@@ -19,6 +19,7 @@ RUN \
 		gcc \
 		gettext \
 		git \
+		gnat \
 		g++ \
 		libssl-dev \
 		libxml-simple-perl \
