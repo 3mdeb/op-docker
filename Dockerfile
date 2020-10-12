@@ -36,6 +36,7 @@ RUN \
 		python-dev \
 		python3-dev \
 		python-twisted \
+		openssl \
 		rsync \
 		texinfo \
 		unzip \
