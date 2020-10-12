@@ -31,6 +31,7 @@ RUN \
 		locales \
 		locales-all \
 		make \
+		pkg-config \
 		patch \
 		python \
 		python-dev \
