@@ -25,4 +25,4 @@ deploy:
   script:
     - bash $MANAGER_SH push
   on:
-    branch: master
+    branch: main
