@@ -25,4 +25,4 @@ $ docker run --rm -it -v ${PWD}:/home/user/talos-op-build \
 > The build process is time-consuming and downloads lots of source code. Be
 > sure to have quite powerful machine and good network bandwidth.
 
-The result image can be found as `<talos-op-build>/output/image/talos.pnor`.
+The result image can be found as `<talos-op-build>/output/images/talos.pnor`.
